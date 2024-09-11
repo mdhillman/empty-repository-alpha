@@ -6,6 +6,10 @@
     "my-first-layer": [
       "core",
       "my-first-layer"
+    ],
+    "my-second-layer": [
+      "core",
+      "my-second-layer"
     ]
   }
 }
