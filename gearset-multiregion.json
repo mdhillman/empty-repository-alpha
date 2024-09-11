@@ -2,6 +2,10 @@
   "overlays": {
     "core": [
       "core"
+    ],
+    "my-first-layer": [
+      "core",
+      "my-first-layer"
     ]
   }
 }
