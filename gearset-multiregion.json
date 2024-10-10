@@ -6,6 +6,10 @@
     "lemon": [
       "core",
       "lemon"
+    ],
+    "banana": [
+      "core",
+      "banana"
     ]
   }
 }
