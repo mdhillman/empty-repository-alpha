@@ -6,6 +6,10 @@
     "alpha": [
       "core",
       "alpha"
+    ],
+    "beta": [
+      "core",
+      "beta"
     ]
   }
 }
