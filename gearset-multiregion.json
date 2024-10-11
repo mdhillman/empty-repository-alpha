@@ -10,6 +10,10 @@
     "banana": [
       "core",
       "banana"
+    ],
+    "marshmellow": [
+      "core",
+      "marshmellow"
     ]
   }
 }
